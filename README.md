@@ -16,3 +16,6 @@ npm install
 ```
 npm start
 ```
+
+### postcss
+postcss using plugin contain 'precss', 'autoprefixer'. 'precss' allows you to use Sass-like markup in your css files.
