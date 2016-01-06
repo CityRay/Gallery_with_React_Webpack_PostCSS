@@ -1,0 +1,26 @@
+{
+  "name": "react_gallery",
+  "description": "react gallery",
+  "main": "index.js",
+  "authors": [
+    "ray lin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "gallery"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "blueimp-gallery": "~2.17.0"
+  }
+}
