@@ -22,7 +22,7 @@
 
  .thumbnail {
    border-radius: 8px;
-   padding: 12.5px;
+   padding: 17.5px;
 
    .image-preview {
       display: inline-block;
@@ -59,4 +59,8 @@
        color: $grey-light;
      }
    }
+ }
+
+ .img-fit {
+    object-fit: cover;
  }

@@ -42,7 +42,7 @@ class GalleryItem extends Component {
 
             <a className="gallery" href={this.props.image} title={this.props.title}>
               {this.state.hovering ? this.icons() : null}
-              <img src={this.props.image} alt={this.props.title} />
+              <img className="img-fit" src={this.props.image} alt={this.props.title} />
             </a>
           </div>
           <div className="caption text-center">
